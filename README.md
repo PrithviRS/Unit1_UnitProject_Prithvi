@@ -12,7 +12,7 @@ My inspiration for this project came largely from Jackson Pollock, and Olaf Haje
 I see this art as a very simplified version of what I'd like to be able to do. Hopefully I can continue on this project, and add in a lot more types or styles of art.
 <img src="http://www.artisticmoods.com/wp-content/uploads/LIITTLE-GURUS.-A-yoga-Discovery-Book-Bohem-Switzerland-2.jpg">   <img src="https://s-media-cache-ak0.pinimg.com/originals/5b/d6/ad/5bd6ad50faf00a3741eaea7a4f2b5c33.jpg">   
 Screenshots
-<img src="http://imgur.com/jcj7BCh">   <img src="http://imgur.com/FNzZKwE">   <img src="http://imgur.com/HYoA2Ww"> 
+<img src="http://i.imgur.com/jcj7BCh.jpg">   <img src="http://i.imgur.com/aYW4tLF.jpg">   <img src="http://i.imgur.com/HYoA2Ww.jpg"> 
 	
 Future Updates
 
