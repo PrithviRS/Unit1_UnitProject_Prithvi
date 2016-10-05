@@ -40,7 +40,7 @@ void draw()
     }
 
 
-    if (d.y>height) 
+    if (d.y>height || d.y<0 || d.x>width || d.x<0) 
     {
       draw.remove(i);
     }
