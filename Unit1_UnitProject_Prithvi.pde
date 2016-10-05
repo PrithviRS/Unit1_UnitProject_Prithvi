@@ -14,10 +14,7 @@ void setup()
   smooth();
   colorMode(RGB, 255);
   background(255);
-  if(mouseX == 0 && mouseY == 0)
-  {
-    background(255);
-  }
+
 }
 
 void draw() 

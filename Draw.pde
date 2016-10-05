@@ -35,7 +35,7 @@ class Draw
 
   void setSpeed()
   {
-    xSpeed = random(-40, 3);
+    xSpeed = random(-40, 40);
     ySpeed = random(-40, 4);
   }
 }
