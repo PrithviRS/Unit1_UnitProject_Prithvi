@@ -1,3 +1,11 @@
+import ddf.minim.*;
+import ddf.minim.analysis.*;
+import ddf.minim.effects.*;
+import ddf.minim.signals.*;
+import ddf.minim.spi.*;
+import ddf.minim.ugens.*;
+AudioPlayer song;
+Minim minim;
 
 
 
@@ -9,6 +17,8 @@ int H = 0;
 
 void setup() 
 {
+  minim = new Minim(this);
+  song = minim.loadFile("Firework.mp3");
   fullScreen();
   draw = new ArrayList();
   smooth();
@@ -37,6 +47,7 @@ void draw()
     if (mousePressed)
     {
       d.setSpeed();
+      song.play();
     }
 
 
@@ -49,4 +60,12 @@ void draw()
 
   draw.add(new Draw());
  
+}
+
+void mouseReleased()
+{
+ if(song.isPlaying())
+ {
+  song.pause(); 
+ }
 }
